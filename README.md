@@ -8,11 +8,11 @@ Whether I'm engineering a comprehensive ERP system, developing a mobile streamin
 
 ---
 
-### 🚀 What I'm Currently Building
+### 🚀 My Previous Projects
 
-* 🎧 **Rythmify:** Architecting a high-performance cross-platform music streaming app.
-* 🏭 **Poly Gate:** Developing a full-scale web-based ERP system for sales, purchasing, and inventory management.
-* 🎓 **UniClub+:** Creating a centralized management platform for university student organizations and events.
+* 🎧 **Rythmify:** Architecting a high-performance cross-platform music streaming app [A Sound Cloud Clone].
+* 🏭 **Poly Gate ERP:** Developing a full-scale web-based ERP system for sales, purchasing, and inventory management.
+* 🎓 **CUFE PRO:** Creating a centralized management platform for CUFE student Schedules and Tracking.
 
 ---
 
@@ -57,3 +57,4 @@ Whether I'm engineering a comprehensive ERP system, developing a mobile streamin
 > *"Good design is good business, and great code makes it happen."*
 
 I'm always open to discussing SaaS ideas, app development, or brand strategy. Feel free to explore my repositories to see what I've been working on lately!
+*Contact Email: basselalaa33@gmail.com*
