@@ -1,4 +1,4 @@
-# ⚡ Welcome to BisoLab ⚡
+# ⚡ Welcome to Biso Lab ⚡
 
 ### Hi there, I'm BISO! 👋 
 
