@@ -35,7 +35,7 @@ Whether I'm engineering a comprehensive ERP system, developing a mobile streamin
 
 ---
 
-### 📈 GitHub Analytics & Commit Tracking
+### 📈 GitHub Analytics
 
 *Here is a real-time overview of my overall commits, pull requests, and contributions.*
 
