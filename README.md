@@ -72,7 +72,7 @@ Whether I'm engineering a comprehensive ERP system, developing a mobile streamin
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BisoLab&layout=compact&theme=tokyonight&hide_border=true" alt="BISO's Top Languages" />
 </div>
 <div align="center">
-<img src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3DBisoLab%26theme%3Ddark%26hide_border%3Dtrue%26background%3D0D0D0D%26ring%3D00FF00%26fire%3D00FF00%26currStreakNum%3DFFFFFF" alt="BISO's Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=BisoLab&theme=dark&hide_border=true&background=0D0D0D&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF" />
 </div>
 ### 📫 Let's Connect
 > *"Good design is good business, and great code makes it happen."*
