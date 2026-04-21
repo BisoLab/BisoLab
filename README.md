@@ -65,8 +65,11 @@ Whether I'm engineering a comprehensive ERP system, developing a mobile streamin
 <img src="https://img.shields.io/badge/Brand_Identity-121011?style=for-the-badge" alt="Brand Identity" />
 </p>
 </details>
+```
 ### 📈 GitHub Analytics
+
 *Here is a real-time overview of my overall commits, pull requests, and contributions.*
+
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BisoLab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="BISO's GitHub Stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BisoLab&layout=compact&theme=tokyonight&hide_border=true" alt="BISO's Top Languages" />
@@ -74,9 +77,11 @@ Whether I'm engineering a comprehensive ERP system, developing a mobile streamin
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=BisoLab&theme=dark&hide_border=true&background=0D0D0D&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF" />
 </div>
+
 ### 📫 Let's Connect
 > *"Good design is good business, and great code makes it happen."*
 > 
 I'm always open to discussing SaaS ideas, app development, or brand strategy. Feel free to explore my repositories to see what I've been working on lately!
 *Contact Email: basselalaa33@gmail.com*
-```text
+
+
