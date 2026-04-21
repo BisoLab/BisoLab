@@ -79,4 +79,4 @@ Whether I'm engineering a comprehensive ERP system, developing a mobile streamin
 > 
 I'm always open to discussing SaaS ideas, app development, or brand strategy. Feel free to explore my repositories to see what I've been working on lately!
 *Contact Email: basselalaa33@gmail.com*
-```
+```text
