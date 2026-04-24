@@ -1,5 +1,5 @@
 ```markdown
-# ⚡ Welcome to Biso Lab ⚡
+⚡ Welcome to Biso Lab ⚡
 
 ┌─ SYSTEM BOOT ─ BISO LAB ─────────────────────────┐
 │                                                  │
@@ -65,10 +65,9 @@ Whether I'm engineering a comprehensive ERP system, developing a mobile streamin
 <img src="https://img.shields.io/badge/Brand_Identity-121011?style=for-the-badge" alt="Brand Identity" />
 </p>
 </details>
-```
-### 📈 GitHub Analytics
 
-*Here is a real-time overview of my overall commits, pull requests, and contributions.*
+
+### 📈 GitHub Analytics
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BisoLab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="BISO's GitHub Stats" />
