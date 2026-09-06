@@ -1,29 +1,5 @@
-```markdown
-
-B I S O  -  T H E   H Y B R I D   C R E A T I V E
-
-
-```
-### Hi there, I'm BISO! 👋
-I'm a developer and brand mark strategist passionate about crafting everything from beautiful, user-centric apps to powerful SaaS platforms and custom internal tools. I thrive at the intersection of clean logic and stunning design, building digital solutions that actually make an impact.
-Whether I'm engineering a comprehensive ERP system, developing a mobile streaming experience, or designing a memorable brand identity, I love turning complex problems into elegant products.
-
-```
-💻 Tech Stack & Tools
-
-┌─ TELEMETRY ─ TECH STACK & TOOLS ─────────────────────────────────────────┐
-│                                                                          │
-│  [FRONTEND/MOBILE]  Flutter · React · HTML5 · CSS3                       │
-│  [BACKEND/DB]       Node.js · Supabase · SQL                             │
-│  [DESIGN/STRAT]     Figma · Brand Identity Strategy                      │
-│                                                                          │
-│  > SYSTEM STATUS: OPTIMAL                                                │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
-```
-
-### 📫 Let's Connect
-> *"Good design is good business, and great code makes it happen."*
-> 
-I'm always open to discussing SaaS ideas, app development, or brand strategy. Feel free to explore my repositories to see what I've been working on lately!
-*Contact Email: basselalaa33@gmail.com*
+### Hi there, I'm BISO (AKA Bassel Alaa) ! 👋
+---
+### I'm a Software Engineer (Frontend - Mobile - Backend on holydays).
+### I'm a Brand Identity Designer.
+### I do stuff that looks good, work good, and feels good.
